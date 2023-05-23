@@ -13,7 +13,7 @@
 - 📬 You can reach me at **iammohdhamidashraf@gmail.com**
 - 🚀 I’m always looking for new challenges and opportunities to expand my skills and knowledge in these technologies and more.
 - 🔍 Follow me on my journey as I explore the latest trends and best practices in full-stack development.
-- 💻 Let’s learn and grow together!**
+- 💻 Let’s learn and grow together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
