@@ -1,7 +1,6 @@
 ![MasterHead](https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?fit=1170%2C390&ssl=1)
 <h1 align="center">Hi 👋, I'm Mohd Hamid Ashraf</h1>
 <h3 align="center">I’m a curious learner with a passion for full-stack development from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdhamidashraf&label=Profile%20views&color=0e75b6&style=flat" alt="mohdhamidashraf" /> </p>
 
@@ -12,8 +11,9 @@
 - 📂 All of my projects are available at [https://github.com/Mohdhamidashraf](https://github.com/Mohdhamidashraf)
 
 - 📬 You can reach me at **iammohdhamidashraf@gmail.com**
-
-- ⚡Fact **🚀 I’m always looking for new challenges and opportunities to expand my skills and knowledge in these technologies and more.🔍 Follow me on my journey as I explore the latest trends and best practices in full-stack development. 💻 Let’s learn and grow together!**
+- 🚀 I’m always looking for new challenges and opportunities to expand my skills and knowledge in these technologies and more.
+- 🔍 Follow me on my journey as I explore the latest trends and best practices in full-stack development.
+- 💻 Let’s learn and grow together!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
