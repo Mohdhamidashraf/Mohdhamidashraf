@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mohdhamidashraf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohdhamidashraf" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohdhamidashraf/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="mohdhamidashraf" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohdhamidashraf" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="mohdhamidashraf" height="30" width="40" /></a>
 <a href="https://instagram.com/hamidashrafofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamidashrafofficial" height="30" width="40" /></a>
 </p>
