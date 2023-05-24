@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdhamidashraf&label=Profile%20views&color=0e75b6&style=flat" alt="mohdhamidashraf" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hamidashrafoff" target="blank"><img src="https://img.shields.io/twitter/follow/hamidashrafoff?logo=twitter&style=for-the-badge" alt="hamidashrafoff" /></a> </p>
-
-- 🧠 My areas of expertise include **Python, HTML, CSS, DOM, JavaScript, React, Node.js, DBMS, SQL, and MongoDB.**
+- 🧠 My areas of learning include **Python, HTML, CSS, DOM, JavaScript, React, Node.js, DBMS, SQL, and MongoDB.**
 
 - 📂 All of my projects are available at [https://github.com/Mohdhamidashraf](https://github.com/Mohdhamidashraf)
 
@@ -17,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mohdhamidashraf/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="mohdhamidashraf" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohdhamidashraf" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="mohdhamidashraf" height="30" width="40" /></a>
-<a href="https://instagram.com/hamidashrafofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamidashrafofficial" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="iammohdhamidashraf@gmail.com" height="30" width="40" /></a><a href="https://www.linkedin.com/in/mohdhamidashraf/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="mohdhamidashraf" height="30" width="40" /></a>
+<a href="https://www.instagram.com/hamidashrafofficial/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="hamidashrafofficial" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCans0F9YToqtA3oadW0-29A" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png" alt="@MOHDHAMIDASHRAF" height="30" width="40" /></a> <a href="https://twitter.com/hamidashrafoff" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" alt="hamidashrafoff" height="30" width="40" /></a> <a href="https://in.pinterest.com/iammohdhamidashraf/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Pinterest_colored_svg-512.png" alt="iammohdhamidashraf" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
