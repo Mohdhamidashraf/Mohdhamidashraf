@@ -1,4 +1,4 @@
-![MasterHead](https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?fit=1170%2C390&ssl=1)
+![MasterHead](C:\Users\Iammo\OneDrive\Pictures\FULL STACK DEVELOPMENT IMAGES)
 <h1 align="center">Hi 👋, I'm Mohd Hamid Ashraf</h1>
 <h3 align="center">I’m a curious learner with a passion for full-stack development from India</h3>
 
