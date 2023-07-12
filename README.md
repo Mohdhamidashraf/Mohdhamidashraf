@@ -1,4 +1,4 @@
-![MasterHead](https://www.multidots.com/wp-content/uploads/2018/01/Full_stack_developer-1-1.jpg?quality=90)
+![MasterHead](https://wallpaperaccess.com/full/2525121.jpg)
 <h1 align="center">Hi 👋, I'm Mohd Hamid Ashraf</h1>
 <h3 align="center">I’m a curious learner with a passion for full-stack development from India</h3>
 
